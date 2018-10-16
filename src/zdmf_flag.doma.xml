@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD01V>
-    <DOMNAME>/DMF/FLAG</DOMNAME>
+    <DOMNAME>ZFLAG</DOMNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <DATATYPE>CHAR</DATATYPE>
     <LENG>000001</LENG>
@@ -13,14 +13,14 @@
    </DD01V>
    <DD07V_TAB>
     <DD07V>
-     <DOMNAME>/DMF/FLAG</DOMNAME>
+     <DOMNAME>ZFLAG</DOMNAME>
      <VALPOS>0001</VALPOS>
      <DDLANGUAGE>E</DDLANGUAGE>
      <DOMVALUE_L>X</DOMVALUE_L>
      <DDTEXT>Yes</DDTEXT>
     </DD07V>
     <DD07V>
-     <DOMNAME>/DMF/FLAG</DOMNAME>
+     <DOMNAME>ZFLAG</DOMNAME>
      <VALPOS>0002</VALPOS>
      <DDLANGUAGE>E</DDLANGUAGE>
      <DDTEXT>No</DDTEXT>
@@ -33,7 +33,7 @@
    <DD01_TEXTS>
     <item>
      <DDLANGUAGE>늑</DDLANGUAGE>
-     <DDTEXT>DOMA /DMF/FLAG</DDTEXT>
+     <DDTEXT>DOMA ZFLAG</DDTEXT>
     </item>
     <item>
      <DDLANGUAGE>닱</DDLANGUAGE>
@@ -45,7 +45,7 @@
      <VALPOS>0001</VALPOS>
      <DDLANGUAGE>늑</DDLANGUAGE>
      <DOMVALUE_L>X</DOMVALUE_L>
-     <DDTEXT>VALU /DMF/FLAG</DDTEXT>
+     <DDTEXT>VALU ZFLAG</DDTEXT>
     </item>
     <item>
      <VALPOS>0001</VALPOS>
@@ -56,7 +56,7 @@
     <item>
      <VALPOS>0002</VALPOS>
      <DDLANGUAGE>늑</DDLANGUAGE>
-     <DDTEXT>VALU /DMF/FLAG</DDTEXT>
+     <DDTEXT>VALU ZFLAG</DDTEXT>
     </item>
     <item>
      <VALPOS>0002</VALPOS>
